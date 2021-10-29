@@ -16,4 +16,4 @@
   You must add your own API key in the src/App.js file to connect to Clarifai.　（必須要有自己的Clarifai API)  
   api 申請詳見我的blog：[點這裡](https://www.notion.so/Clarifai-API-Updates-Models-and-Troubleshooting-a62619f26fc74ab188d7a74b1ea23226 "title")  
 ---
-此章節的完整教學詳見我的blog：[點這裡](https://www.notion.so/Optional-Using-gRPC-API-6d8b3002a3574ebb8494753a194efeba "title")
+此節的完整教學詳見我的blog：[點這裡](https://www.notion.so/Optional-Using-gRPC-API-6d8b3002a3574ebb8494753a194efeba "title")
