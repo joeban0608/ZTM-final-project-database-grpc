@@ -1,0 +1,4 @@
+/* 對Logo.js的<Title className="Tilt" <<<　"Tilt"做style變化 */
+.Tilt {
+    background: linear-gradient(to right, rgb(194, 143, 160), rgb(89, 249, 165));
+}
