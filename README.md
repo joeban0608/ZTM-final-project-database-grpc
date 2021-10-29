@@ -2,7 +2,7 @@
 這是final-project，改寫gRPC版本：
 
 ---
-這有兩個資料夾，一個是server，一個是前端的資料夾，內容已經完成前後端的連結，你可以載下來後，分兩個terminal來做測試。　　
+這有兩個資料夾，一個是server，一個是前端的資料夾，內容已經完成前後端的連結，你可以載下來後，分兩個terminal來做測試。  　
 database得部分要自己創立，詳見database連結 server篇：[點這裡](https://www.notion.so/ZTM-FINAL-PROJECT_SmartBrain-Back-End-Database-35394d591edc4ba3962cbe3a7560bd03 'title')
 1. clone 此 repo  
 ### server的部分
